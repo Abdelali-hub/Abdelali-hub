@@ -15,4 +15,4 @@ Backend: Node.js, Python, Java
 ```
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](votre-lien)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdelali-boufrahi-derraz-753773a8/)
