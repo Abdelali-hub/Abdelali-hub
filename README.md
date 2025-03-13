@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Abdelali-hub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Bonjour, je suis [Boufrahi Derraz Abdelali]
+## 💻 Développeur Front-end/Back-end
 
-<!---
-Abdelali-hub/Abdelali-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 À propos de moi
+- 🔭 Je travaille actuellement sur [Projet en cours]
+- 🌱 J'apprends [Technologie]
+- 👯 Je cherche à collaborer sur [Type de projets]
+- 💬 Posez-moi des questions sur [Vos expertises]
+
+### 🛠 Technologies
+```
+Frontend: Html, Css, Javascript, Bootstrap, React, tailwind, Typescript
+Backend: Node.js, Python, Java
+
+```
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](votre-lien)
