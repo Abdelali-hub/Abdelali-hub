@@ -10,7 +10,7 @@
 ### 🛠 Technologies
 ```
 Frontend: Html, Css, Javascript, Bootstrap, React, tailwind, Typescript
-Backend: Node.js, Python, Java
+Backend: 
 
 ```
 
