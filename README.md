@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Boufrahi Derraz Abdelali]
+# 👋 Bonjour, je suis Boufrahi Derraz Abdelali
 ## 💻 Développeur Front-end/Back-end
 
 ### 🚀 À propos de moi
