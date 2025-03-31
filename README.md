@@ -2,7 +2,7 @@
 ## 💻 Développeur Front-end/Back-end
 
 ### 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur [Projet en cours]
+- 🔭 Je travaille actuellement sur [Projet final en NextJs]
 - 🌱 J'apprends [Technologie]
 - 👯 Je cherche à collaborer sur [Type de projets]
 - 💬 Posez-moi des questions sur [Vos expertises]
