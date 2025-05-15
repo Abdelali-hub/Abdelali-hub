@@ -2,7 +2,7 @@
 ## 💻 Développeur Front-end/Back-end
 
 ### 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur [Projet final en NextJs]
+- 🔭 Je travaille actuellement sur [Projet_libraire en Laravel et react en équipe]
 - 🌱 J'apprends [Technologie]
 - 👯 Je cherche à collaborer sur [Type de projets]
 - 💬 Posez-moi des questions sur [Vos expertises]
@@ -10,7 +10,7 @@
 ### 🛠 Technologies
 ```
 Frontend: Html, Css, Javascript, Bootstrap, React, tailwind
-Backend: 
+Backend: Laravel
 
 ```
 
